@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+* {
+    box-sizing: border-box;
+    font-family: 'Roboto';
+    font-weight: 600;
+    background-color: #8C92AC;
+}
+
+.box {
+    width: 45rem;
+    display: grid;
+    transform: translateY(10rem);
+    justify-content: center;
+    margin-left: 20rem;
+}
+
+h1 {
+    margin-bottom: 0.65em;
+    margin-left: -0.1em;
+}
+
+button {
+    padding: 1rem;
+    padding-right: 4em;
+    padding-left: 4em;
+    margin: 1em;
+    border-radius: 0.75em;
+    background-color: transparent;
+}
+
+h3 {
+    font-weight: 600;
+}
