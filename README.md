@@ -1,6 +1,14 @@
 # JavaScript
 Projects written by me in JavaScript programming language.
 
+## Projects
+- Background color changer
+- Counter
+- Flash cards
+- Local message creator
+- Quiz
+- Stopwatch
+
 # Technologies, frameworks, libraries
 - Bootstrap, used for simple and readable design.
 - Particles.js, used for creating background.
